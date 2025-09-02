@@ -13,29 +13,52 @@ export class AppComponent {
   readmeForm: FormGroup;
   markdown = '';
   showPreview = false;
+  isCopiedModalOpen = false;
 
 
-  
 
-  constructor(private fb: FormBuilder, private badgeService: BadgeService) {
-    this.readmeForm = this.fb.group({
-      name: [''],
-      username: [''],
-      tagline: [''],
-      addImage: [false],
-      imageurl: [''],
-      currentWork: [''],
-      learning: [''],
-      collaboration: [''],
-      help: [''],
-      ask: [''],
-      portfolio: [''],
-      email: [''],
-      linkedin: [''],
-      instagram: [''],
-      funFact: ['']
-    });
+  ngOnInit() {
+  const savedForm = localStorage.getItem('readmeForm');
+  const savedSkills = localStorage.getItem('skills');
+
+  if (savedForm) {
+    this.readmeForm.patchValue(JSON.parse(savedForm));
   }
+  if (savedSkills) {
+    this.skills = JSON.parse(savedSkills);
+  }
+
+  // Watch form changes and save
+  this.readmeForm.valueChanges.subscribe(val => {
+    localStorage.setItem('readmeForm', JSON.stringify(val));
+  });
+}
+
+
+constructor(private fb: FormBuilder, private badgeService: BadgeService) {
+  this.readmeForm = this.fb.group({
+    name: [''],
+    username: [''],
+    tagline: [''],
+    addImage: [false],
+    imageurl: [''],
+    currentWork: [''],
+    learning: [''],
+    collaboration: [''],
+    help: [''],
+    ask: [''],
+    portfolio: [''],
+    email: [''],
+    linkedin: [''],
+    instagram: [''],
+    funFact: ['']
+  });
+
+  this.readmeForm.valueChanges.subscribe(() => {
+    this.markdown = this.generateMarkdown();
+  });
+}
+
 
   skills: string[] = [];
   newSkill = '';
@@ -56,16 +79,29 @@ export class AppComponent {
     return this.skillColors[index % this.skillColors.length];
   }
 
-  addSkill() {
-    if (this.newSkill.trim() && !this.skills.includes(this.newSkill.trim())) {
-      this.skills.push(this.newSkill.trim());
-    }
+addSkill() {
+  if (this.newSkill.trim() && !this.skills.includes(this.newSkill.trim())) {
+    this.skills.push(this.newSkill.trim());
+    localStorage.setItem('skills', JSON.stringify(this.skills));
     this.newSkill = '';
+    this.markdown = this.generateMarkdown();
   }
+}
 
-  removeSkill(skill: string) {
-    this.skills = this.skills.filter(s => s !== skill);
-  }
+removeSkill(skill: string) {
+  this.skills = this.skills.filter(s => s !== skill);
+  localStorage.setItem('skills', JSON.stringify(this.skills));
+  this.markdown = this.generateMarkdown();
+}
+
+
+clearStorage() {
+  localStorage.removeItem('readmeForm');
+  localStorage.removeItem('skills');
+  this.readmeForm.reset();
+  this.skills = [];
+  this.markdown = '';
+}
 
 
   selectedTab: 'code' | 'preview' = 'code';
@@ -92,10 +128,17 @@ selectSuggestion(s: { name: string; badge: string }) {
 
 
 
-  onCopy() {
-    navigator.clipboard.writeText(this.markdown);
-    alert('README copied to clipboard!');
-  }
+
+onCopy() {
+  navigator.clipboard.writeText(this.markdown).then(() => {
+    this.isCopiedModalOpen = true;
+
+    setTimeout(() => {
+      this.isCopiedModalOpen = false;
+    }, 2000);
+  });
+}
+
 
   togglePreview() {
     this.showPreview = !this.showPreview;

@@ -6,7 +6,7 @@ export class BadgeService {
   private badges: any = {};
 
   constructor(private http: HttpClient) {
-    this.http.get('/badges.json').subscribe(data => {
+    this.http.get('badges.json').subscribe(data => {
       this.badges = data;
     });
   }

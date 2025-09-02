@@ -1,0 +1,2887 @@
+{
+    "HTML5": {
+        "color": "E34F26",
+        "logo": "html5",
+        "logoColor": "white"
+    },
+    "CSS3": {
+        "color": "1572B6",
+        "logo": "css3",
+        "logoColor": "white"
+    },
+    "Sass": {
+        "color": "CC6699",
+        "logo": "sass",
+        "logoColor": "white"
+    },
+    "Less": {
+        "color": "1D365D",
+        "logo": "less",
+        "logoColor": "white"
+    },
+    "Stylus": {
+        "color": "333333",
+        "logo": "stylus",
+        "logoColor": "white"
+    },
+    "PostCSS": {
+        "color": "DD3A0A",
+        "logo": "postcss",
+        "logoColor": "white"
+    },
+    "TailwindCSS": {
+        "color": "38B2AC",
+        "logo": "tailwindcss",
+        "logoColor": "white"
+    },
+    "Bootstrap": {
+        "color": "7952B3",
+        "logo": "bootstrap",
+        "logoColor": "white"
+    },
+    "Bulma": {
+        "color": "00D1B2",
+        "logo": "bulma",
+        "logoColor": "white"
+    },
+    "Foundation": {
+        "color": "0A0A0A",
+        "logo": "foundation",
+        "logoColor": "white"
+    },
+    "Material UI": {
+        "color": "007FFF",
+        "logo": "mui",
+        "logoColor": "white"
+    },
+    "Ant Design": {
+        "color": "0170FE",
+        "logo": "antdesign",
+        "logoColor": "white"
+    },
+    "Chakra UI": {
+        "color": "319795",
+        "logo": "chakraui",
+        "logoColor": "white"
+    },
+    "ShadCN UI": {
+        "color": "000000",
+        "logo": "shadcnui",
+        "logoColor": "white"
+    },
+    "DaisyUI": {
+        "color": "5A0EF8",
+        "logo": "daisyui",
+        "logoColor": "white"
+    },
+    "JavaScript": {
+        "color": "F7DF1E",
+        "logo": "javascript",
+        "logoColor": "black"
+    },
+    "TypeScript": {
+        "color": "3178C6",
+        "logo": "typescript",
+        "logoColor": "white"
+    },
+    "EJS": {
+        "color": "B4CA65",
+        "logo": "ejs",
+        "logoColor": "black"
+    },
+    "Handlebars": {
+        "color": "000000",
+        "logo": "handlebarsdotjs",
+        "logoColor": "white"
+    },
+    "Pug": {
+        "color": "A86454",
+        "logo": "pug",
+        "logoColor": "white"
+    },
+    "Babel": {
+        "color": "F9DC3E",
+        "logo": "babel",
+        "logoColor": "black"
+    },
+    "Webpack": {
+        "color": "8DD6F9",
+        "logo": "webpack",
+        "logoColor": "black"
+    },
+    "Rollup": {
+        "color": "EC4A3F",
+        "logo": "rollupdotjs",
+        "logoColor": "white"
+    },
+    "Parcel": {
+        "color": "000000",
+        "logo": "parcel",
+        "logoColor": "white"
+    },
+    "Vite": {
+        "color": "646CFF",
+        "logo": "vite",
+        "logoColor": "white"
+    },
+    "Snowpack": {
+        "color": "2E5E82",
+        "logo": "snowpack",
+        "logoColor": "white"
+    },
+    "Gulp": {
+        "color": "CF4647",
+        "logo": "gulp",
+        "logoColor": "white"
+    },
+    "Grunt": {
+        "color": "FBA919",
+        "logo": "grunt",
+        "logoColor": "black"
+    },
+    "ESLint": {
+        "color": "4B32C3",
+        "logo": "eslint",
+        "logoColor": "white"
+    },
+    "Prettier": {
+        "color": "1A2B34",
+        "logo": "prettier",
+        "logoColor": "white"
+    },
+    "Rome": {
+        "color": "000000",
+        "logo": "rome",
+        "logoColor": "white"
+    },
+    "SWC": {
+        "color": "000000",
+        "logo": "swc",
+        "logoColor": "white"
+    },
+    "Turborepo": {
+        "color": "000000",
+        "logo": "turbo",
+        "logoColor": "white"
+    },
+    "Nx": {
+        "color": "143055",
+        "logo": "nx",
+        "logoColor": "white"
+    },
+    "Angular": {
+        "color": "DD0031",
+        "logo": "angular",
+        "logoColor": "white"
+    },
+    "AngularJS": {
+        "color": "E23237",
+        "logo": "angularjs",
+        "logoColor": "white"
+    },
+    "React": {
+        "color": "20232A",
+        "logo": "react",
+        "logoColor": "61DAFB"
+    },
+    "Next.js": {
+        "color": "000000",
+        "logo": "nextdotjs",
+        "logoColor": "white"
+    },
+    "Remix": {
+        "color": "000000",
+        "logo": "remix",
+        "logoColor": "white"
+    },
+    "Gatsby": {
+        "color": "663399",
+        "logo": "gatsby",
+        "logoColor": "white"
+    },
+    "Vue.js": {
+        "color": "4FC08D",
+        "logo": "vuedotjs",
+        "logoColor": "white"
+    },
+    "Nuxt.js": {
+        "color": "00DC82",
+        "logo": "nuxtdotjs",
+        "logoColor": "white"
+    },
+    "Svelte": {
+        "color": "FF3E00",
+        "logo": "svelte",
+        "logoColor": "white"
+    },
+    "SvelteKit": {
+        "color": "FF3E00",
+        "logo": "svelte",
+        "logoColor": "white"
+    },
+    "SolidJS": {
+        "color": "2C4F7C",
+        "logo": "solid",
+        "logoColor": "white"
+    },
+    "Astro": {
+        "color": "0C1222",
+        "logo": "astro",
+        "logoColor": "white"
+    },
+    "Alpine.js": {
+        "color": "8BC0D0",
+        "logo": "alpinedotjs",
+        "logoColor": "black"
+    },
+    "Stimulus": {
+        "color": "77E8B9",
+        "logo": "stimulus",
+        "logoColor": "black"
+    },
+    "Backbone.js": {
+        "color": "0071B5",
+        "logo": "backbone",
+        "logoColor": "white"
+    },
+    "Ember": {
+        "color": "E04E39",
+        "logo": "emberdotjs",
+        "logoColor": "white"
+    },
+    "Lit": {
+        "color": "324FFF",
+        "logo": "lit",
+        "logoColor": "white"
+    },
+    "Stencil": {
+        "color": "262829",
+        "logo": "stencil",
+        "logoColor": "white"
+    },
+    "Redux": {
+        "color": "764ABC",
+        "logo": "redux",
+        "logoColor": "white"
+    },
+    "MobX": {
+        "color": "EA6618",
+        "logo": "mobx",
+        "logoColor": "white"
+    },
+    "Zustand": {
+        "color": "000000",
+        "logo": "zustand",
+        "logoColor": "white"
+    },
+    "React Query": {
+        "color": "FF4154",
+        "logo": "reactquery",
+        "logoColor": "white"
+    },
+    "Apollo GraphQL": {
+        "color": "311C87",
+        "logo": "apollographql",
+        "logoColor": "white"
+    },
+    "Relay": {
+        "color": "F26B00",
+        "logo": "relay",
+        "logoColor": "white"
+    },
+    "URQL": {
+        "color": "000000",
+        "logo": "urql",
+        "logoColor": "white"
+    },
+    "Node.js": {
+        "color": "339933",
+        "logo": "nodedotjs",
+        "logoColor": "white"
+    },
+    "Express": {
+        "color": "000000",
+        "logo": "express",
+        "logoColor": "white"
+    },
+    "Fastify": {
+        "color": "000000",
+        "logo": "fastify",
+        "logoColor": "white"
+    },
+    "NestJS": {
+        "color": "E0234E",
+        "logo": "nestjs",
+        "logoColor": "white"
+    },
+    "Hapi": {
+        "color": "F7A800",
+        "logo": "hapi",
+        "logoColor": "black"
+    },
+    "Koa": {
+        "color": "33333D",
+        "logo": "koa",
+        "logoColor": "white"
+    },
+    "AdonisJS": {
+        "color": "220052",
+        "logo": "adonisjs",
+        "logoColor": "white"
+    },
+    "FeathersJS": {
+        "color": "00B5E2",
+        "logo": "feathersdotjs",
+        "logoColor": "white"
+    },
+    "Sails.js": {
+        "color": "0D5A6A",
+        "logo": "sailsdotjs",
+        "logoColor": "white"
+    },
+    "Meteor": {
+        "color": "DE4F4F",
+        "logo": "meteor",
+        "logoColor": "white"
+    },
+    "Deno": {
+        "color": "000000",
+        "logo": "deno",
+        "logoColor": "white"
+    },
+    "Bun": {
+        "color": "000000",
+        "logo": "bun",
+        "logoColor": "white"
+    },
+    "Python": {
+        "color": "3776AB",
+        "logo": "python",
+        "logoColor": "white"
+    },
+    "Flask": {
+        "color": "000000",
+        "logo": "flask",
+        "logoColor": "white"
+    },
+    "Django": {
+        "color": "092E20",
+        "logo": "django",
+        "logoColor": "white"
+    },
+    "FastAPI": {
+        "color": "009688",
+        "logo": "fastapi",
+        "logoColor": "white"
+    },
+    "Tornado": {
+        "color": "46BAC1",
+        "logo": "tornado",
+        "logoColor": "white"
+    },
+    "Bottle": {
+        "color": "000000",
+        "logo": "bottle",
+        "logoColor": "white"
+    },
+    "Sanic": {
+        "color": "3775A9",
+        "logo": "sanic",
+        "logoColor": "white"
+    },
+    "Falcon": {
+        "color": "00A1DE",
+        "logo": "falcon",
+        "logoColor": "white"
+    },
+    "Pyramid": {
+        "color": "0A0A0A",
+        "logo": "pyramid",
+        "logoColor": "white"
+    },
+    "Celery": {
+        "color": "37814A",
+        "logo": "celery",
+        "logoColor": "white"
+    },
+    "PHP": {
+        "color": "777BB4",
+        "logo": "php",
+        "logoColor": "white"
+    },
+    "Laravel": {
+        "color": "FF2D20",
+        "logo": "laravel",
+        "logoColor": "white"
+    },
+    "Symfony": {
+        "color": "000000",
+        "logo": "symfony",
+        "logoColor": "white"
+    },
+    "CodeIgniter": {
+        "color": "EF4223",
+        "logo": "codeigniter",
+        "logoColor": "white"
+    },
+    "CakePHP": {
+        "color": "D33C43",
+        "logo": "cakephp",
+        "logoColor": "white"
+    },
+    "Yii": {
+        "color": "FF6600",
+        "logo": "yii",
+        "logoColor": "white"
+    },
+    "Zend": {
+        "color": "68B604",
+        "logo": "zendframework",
+        "logoColor": "white"
+    },
+    "Ruby": {
+        "color": "CC342D",
+        "logo": "ruby",
+        "logoColor": "white"
+    },
+    "Rails": {
+        "color": "CC0000",
+        "logo": "rubyonrails",
+        "logoColor": "white"
+    },
+    "Sinatra": {
+        "color": "D6336C",
+        "logo": "sinatra",
+        "logoColor": "white"
+    },
+    "Java": {
+        "color": "007396",
+        "logo": "java",
+        "logoColor": "white"
+    },
+    "Spring": {
+        "color": "6DB33F",
+        "logo": "spring",
+        "logoColor": "white"
+    },
+    "Spring Boot": {
+        "color": "6DB33F",
+        "logo": "springboot",
+        "logoColor": "white"
+    },
+    "Micronaut": {
+        "color": "1B1F23",
+        "logo": "micronaut",
+        "logoColor": "white"
+    },
+    "Quarkus": {
+        "color": "4695EB",
+        "logo": "quarkus",
+        "logoColor": "white"
+    },
+    "Hibernate": {
+        "color": "59666C",
+        "logo": "hibernate",
+        "logoColor": "white"
+    },
+    "Vert.x": {
+        "color": "4B7BEC",
+        "logo": "eclipsevertx",
+        "logoColor": "white"
+    },
+    "Kotlin": {
+        "color": "7F52FF",
+        "logo": "kotlin",
+        "logoColor": "white"
+    },
+    "Scala": {
+        "color": "DC322F",
+        "logo": "scala",
+        "logoColor": "white"
+    },
+    "Groovy": {
+        "color": "4298B8",
+        "logo": "apachegroovy",
+        "logoColor": "white"
+    },
+    "C": {
+        "color": "A8B9CC",
+        "logo": "c",
+        "logoColor": "black"
+    },
+    "C++": {
+        "color": "00599C",
+        "logo": "cplusplus",
+        "logoColor": "white"
+    },
+    "C#": {
+        "color": "239120",
+        "logo": "csharp",
+        "logoColor": "white"
+    },
+    ".NET": {
+        "color": "512BD4",
+        "logo": "dotnet",
+        "logoColor": "white"
+    },
+    "ASP.NET": {
+        "color": "512BD4",
+        "logo": "dotnet",
+        "logoColor": "white"
+    },
+    "Mono": {
+        "color": "D5D5D5",
+        "logo": "mono",
+        "logoColor": "black"
+    },
+    "Go": {
+        "color": "00ADD8",
+        "logo": "go",
+        "logoColor": "white"
+    },
+    "Rust": {
+        "color": "000000",
+        "logo": "rust",
+        "logoColor": "white"
+    },
+    "Elixir": {
+        "color": "4B275F",
+        "logo": "elixir",
+        "logoColor": "white"
+    },
+    "Erlang": {
+        "color": "A90533",
+        "logo": "erlang",
+        "logoColor": "white"
+    },
+    "Haskell": {
+        "color": "5D4F85",
+        "logo": "haskell",
+        "logoColor": "white"
+    },
+    "OCaml": {
+        "color": "EC6813",
+        "logo": "ocaml",
+        "logoColor": "white"
+    },
+    "Clojure": {
+        "color": "5881D8",
+        "logo": "clojure",
+        "logoColor": "white"
+    },
+    "F#": {
+        "color": "378BBA",
+        "logo": "fsharp",
+        "logoColor": "white"
+    },
+    "R": {
+        "color": "276DC3",
+        "logo": "r",
+        "logoColor": "white"
+    },
+    "Swift": {
+        "color": "FA7343",
+        "logo": "swift",
+        "logoColor": "white"
+    },
+    "Objective-C": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "GraphQL": {
+        "color": "E10098",
+        "logo": "graphql",
+        "logoColor": "white"
+    },
+    "gRPC": {
+        "color": "00C7B7",
+        "logo": "grpc",
+        "logoColor": "white"
+    },
+    "REST": {
+        "color": "005571",
+        "logo": "swagger",
+        "logoColor": "white"
+    },
+    "OpenAPI": {
+        "color": "6BA539",
+        "logo": "openapiinitiative",
+        "logoColor": "white"
+    },
+    "tRPC": {
+        "color": "2596BE",
+        "logo": "trpc",
+        "logoColor": "white"
+    },
+    "MySQL": {
+        "color": "4479A1",
+        "logo": "mysql",
+        "logoColor": "white"
+    },
+    "PostgreSQL": {
+        "color": "4169E1",
+        "logo": "postgresql",
+        "logoColor": "white"
+    },
+    "SQLite": {
+        "color": "003B57",
+        "logo": "sqlite",
+        "logoColor": "white"
+    },
+    "MariaDB": {
+        "color": "003545",
+        "logo": "mariadb",
+        "logoColor": "white"
+    },
+    "MongoDB": {
+        "color": "47A248",
+        "logo": "mongodb",
+        "logoColor": "white"
+    },
+    "Redis": {
+        "color": "DC382D",
+        "logo": "redis",
+        "logoColor": "white"
+    },
+    "Cassandra": {
+        "color": "1287B1",
+        "logo": "apachecassandra",
+        "logoColor": "white"
+    },
+    "CouchDB": {
+        "color": "E42528",
+        "logo": "apachecouchdb",
+        "logoColor": "white"
+    },
+    "Couchbase": {
+        "color": "EA2328",
+        "logo": "couchbase",
+        "logoColor": "white"
+    },
+    "Elasticsearch": {
+        "color": "005571",
+        "logo": "elasticsearch",
+        "logoColor": "white"
+    },
+    "Logstash": {
+        "color": "005571",
+        "logo": "logstash",
+        "logoColor": "white"
+    },
+    "Kibana": {
+        "color": "005571",
+        "logo": "kibana",
+        "logoColor": "white"
+    },
+    "InfluxDB": {
+        "color": "22ADF6",
+        "logo": "influxdb",
+        "logoColor": "white"
+    },
+    "Timescale": {
+        "color": "FDB515",
+        "logo": "timescale",
+        "logoColor": "black"
+    },
+    "ClickHouse": {
+        "color": "000000",
+        "logo": "clickhouse",
+        "logoColor": "white"
+    },
+    "DuckDB": {
+        "color": "FFF000",
+        "logo": "duckdb",
+        "logoColor": "black"
+    },
+    "Neo4j": {
+        "color": "4581C3",
+        "logo": "neo4j",
+        "logoColor": "white"
+    },
+    "ArangoDB": {
+        "color": "DDE072",
+        "logo": "arangodb",
+        "logoColor": "black"
+    },
+    "Dgraph": {
+        "color": "E50695",
+        "logo": "dgraph",
+        "logoColor": "white"
+    },
+    "Fauna": {
+        "color": "3A1AB6",
+        "logo": "fauna",
+        "logoColor": "white"
+    },
+    "Supabase": {
+        "color": "3ECF8E",
+        "logo": "supabase",
+        "logoColor": "black"
+    },
+    "Prisma": {
+        "color": "2D3748",
+        "logo": "prisma",
+        "logoColor": "white"
+    },
+    "Sequelize": {
+        "color": "52B0E7",
+        "logo": "sequelize",
+        "logoColor": "white"
+    },
+    "TypeORM": {
+        "color": "FDFDFD",
+        "logo": "typeorm",
+        "logoColor": "black"
+    },
+    "Mongoose": {
+        "color": "880000",
+        "logo": "mongoose",
+        "logoColor": "white"
+    },
+    "Drizzle": {
+        "color": "000000",
+        "logo": "drizzle",
+        "logoColor": "white"
+    },
+    "Docker": {
+        "color": "2496ED",
+        "logo": "docker",
+        "logoColor": "white"
+    },
+    "Podman": {
+        "color": "892CA0",
+        "logo": "podman",
+        "logoColor": "white"
+    },
+    "Kubernetes": {
+        "color": "326CE5",
+        "logo": "kubernetes",
+        "logoColor": "white"
+    },
+    "Helm": {
+        "color": "277A9F",
+        "logo": "helm",
+        "logoColor": "white"
+    },
+    "Kustomize": {
+        "color": "1B73B7",
+        "logo": "kustomize",
+        "logoColor": "white"
+    },
+    "OpenShift": {
+        "color": "EE0000",
+        "logo": "redhatopenshift",
+        "logoColor": "white"
+    },
+    "Rancher": {
+        "color": "0075A8",
+        "logo": "rancher",
+        "logoColor": "white"
+    },
+    "Nomad": {
+        "color": "00BC7F",
+        "logo": "hashicorp",
+        "logoColor": "white"
+    },
+    "Consul": {
+        "color": "CA2171",
+        "logo": "consul",
+        "logoColor": "white"
+    },
+    "Vault": {
+        "color": "000000",
+        "logo": "vault",
+        "logoColor": "white"
+    },
+    "Terraform": {
+        "color": "844FBA",
+        "logo": "terraform",
+        "logoColor": "white"
+    },
+    "Packer": {
+        "color": "02A8EF",
+        "logo": "packer",
+        "logoColor": "white"
+    },
+    "Ansible": {
+        "color": "EE0000",
+        "logo": "ansible",
+        "logoColor": "white"
+    },
+    "Puppet": {
+        "color": "FFAE1A",
+        "logo": "puppet",
+        "logoColor": "black"
+    },
+    "Chef": {
+        "color": "F09820",
+        "logo": "chef",
+        "logoColor": "white"
+    },
+    "SaltStack": {
+        "color": "00EACE",
+        "logo": "saltproject",
+        "logoColor": "black"
+    },
+    "Jenkins": {
+        "color": "D24939",
+        "logo": "jenkins",
+        "logoColor": "white"
+    },
+    "GitHub Actions": {
+        "color": "2088FF",
+        "logo": "githubactions",
+        "logoColor": "white"
+    },
+    "GitLab CI": {
+        "color": "FC6D26",
+        "logo": "gitlab",
+        "logoColor": "white"
+    },
+    "Bitbucket Pipelines": {
+        "color": "0052CC",
+        "logo": "bitbucket",
+        "logoColor": "white"
+    },
+    "Travis CI": {
+        "color": "3EAAAF",
+        "logo": "travisci",
+        "logoColor": "white"
+    },
+    "CircleCI": {
+        "color": "343434",
+        "logo": "circleci",
+        "logoColor": "white"
+    },
+    "Azure DevOps": {
+        "color": "0078D7",
+        "logo": "azuredevops",
+        "logoColor": "white"
+    },
+    "TeamCity": {
+        "color": "000000",
+        "logo": "teamcity",
+        "logoColor": "white"
+    },
+    "Bamboo": {
+        "color": "0052CC",
+        "logo": "atlassian",
+        "logoColor": "white"
+    },
+    "Prometheus": {
+        "color": "E6522C",
+        "logo": "prometheus",
+        "logoColor": "white"
+    },
+    "Grafana": {
+        "color": "F46800",
+        "logo": "grafana",
+        "logoColor": "white"
+    },
+    "Loki": {
+        "color": "4A8E00",
+        "logo": "grafana",
+        "logoColor": "white"
+    },
+    "Tempo": {
+        "color": "000000",
+        "logo": "grafana",
+        "logoColor": "white"
+    },
+    "Jaeger": {
+        "color": "65A30D",
+        "logo": "jaeger",
+        "logoColor": "white"
+    },
+    "OpenTelemetry": {
+        "color": "000000",
+        "logo": "opentelemetry",
+        "logoColor": "white"
+    },
+    "Datadog": {
+        "color": "632CA6",
+        "logo": "datadog",
+        "logoColor": "white"
+    },
+    "New Relic": {
+        "color": "1CE783",
+        "logo": "newrelic",
+        "logoColor": "black"
+    },
+    "Sentry": {
+        "color": "362D59",
+        "logo": "sentry",
+        "logoColor": "white"
+    },
+    "Elastic APM": {
+        "color": "005571",
+        "logo": "elastic",
+        "logoColor": "white"
+    },
+    "Splunk": {
+        "color": "000000",
+        "logo": "splunk",
+        "logoColor": "white"
+    },
+    "Kiali": {
+        "color": "7D4698",
+        "logo": "kiali",
+        "logoColor": "white"
+    },
+    "Nginx": {
+        "color": "009639",
+        "logo": "nginx",
+        "logoColor": "white"
+    },
+    "Apache": {
+        "color": "D22128",
+        "logo": "apache",
+        "logoColor": "white"
+    },
+    "Caddy": {
+        "color": "1F88D9",
+        "logo": "caddy",
+        "logoColor": "white"
+    },
+    "Traefik": {
+        "color": "24A1C1",
+        "logo": "traefikproxy",
+        "logoColor": "white"
+    },
+    "HAProxy": {
+        "color": "000000",
+        "logo": "haproxy",
+        "logoColor": "white"
+    },
+    "RabbitMQ": {
+        "color": "FF6600",
+        "logo": "rabbitmq",
+        "logoColor": "white"
+    },
+    "Kafka": {
+        "color": "231F20",
+        "logo": "apachekafka",
+        "logoColor": "white"
+    },
+    "ActiveMQ": {
+        "color": "E01E5A",
+        "logo": "apacheactivemq",
+        "logoColor": "white"
+    },
+    "NATS": {
+        "color": "27AAE1",
+        "logo": "natsdotio",
+        "logoColor": "white"
+    },
+    "Pulsar": {
+        "color": "188FFF",
+        "logo": "apachepulsar",
+        "logoColor": "white"
+    },
+    "AWS": {
+        "color": "232F3E",
+        "logo": "amazonaws",
+        "logoColor": "white"
+    },
+    "Azure": {
+        "color": "0078D4",
+        "logo": "microsoftazure",
+        "logoColor": "white"
+    },
+    "GCP": {
+        "color": "4285F4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+    },
+    "Cloudflare": {
+        "color": "F38020",
+        "logo": "cloudflare",
+        "logoColor": "white"
+    },
+    "Heroku": {
+        "color": "430098",
+        "logo": "heroku",
+        "logoColor": "white"
+    },
+    "Vercel": {
+        "color": "000000",
+        "logo": "vercel",
+        "logoColor": "white"
+    },
+    "Netlify": {
+        "color": "00C7B7",
+        "logo": "netlify",
+        "logoColor": "white"
+    },
+    "Render": {
+        "color": "46E3B7",
+        "logo": "render",
+        "logoColor": "black"
+    },
+    "Fly.io": {
+        "color": "2200F1",
+        "logo": "flydotio",
+        "logoColor": "white"
+    },
+    "DigitalOcean": {
+        "color": "0080FF",
+        "logo": "digitalocean",
+        "logoColor": "white"
+    },
+    "Linode": {
+        "color": "00A95C",
+        "logo": "linode",
+        "logoColor": "white"
+    },
+    "OVH": {
+        "color": "123F6D",
+        "logo": "ovh",
+        "logoColor": "white"
+    },
+    "Scaleway": {
+        "color": "4F0599",
+        "logo": "scaleway",
+        "logoColor": "white"
+    },
+    "VitePress": {
+        "color": "646CFF",
+        "logo": "vite",
+        "logoColor": "white"
+    },
+    "VuePress": {
+        "color": "4FC08D",
+        "logo": "vuedotjs",
+        "logoColor": "white"
+    },
+    "Docusaurus": {
+        "color": "3ECC5F",
+        "logo": "docusaurus",
+        "logoColor": "white"
+    },
+    "Hugo": {
+        "color": "FF4088",
+        "logo": "hugo",
+        "logoColor": "white"
+    },
+    "Jekyll": {
+        "color": "CC0000",
+        "logo": "jekyll",
+        "logoColor": "white"
+    },
+    "MkDocs": {
+        "color": "1C3E63",
+        "logo": "mkdocs",
+        "logoColor": "white"
+    },
+    "Sphinx": {
+        "color": "000000",
+        "logo": "sphinx",
+        "logoColor": "white"
+    },
+    "Eleventy": {
+        "color": "222222",
+        "logo": "eleventy",
+        "logoColor": "white"
+    },
+    "WordPress": {
+        "color": "21759B",
+        "logo": "wordpress",
+        "logoColor": "white"
+    },
+    "Ghost": {
+        "color": "15171A",
+        "logo": "ghost",
+        "logoColor": "white"
+    },
+    "Drupal": {
+        "color": "0678BE",
+        "logo": "drupal",
+        "logoColor": "white"
+    },
+    "Joomla": {
+        "color": "5091CD",
+        "logo": "joomla",
+        "logoColor": "white"
+    },
+    "Strapi": {
+        "color": "2F2E8B",
+        "logo": "strapi",
+        "logoColor": "white"
+    },
+    "Directus": {
+        "color": "263238",
+        "logo": "directus",
+        "logoColor": "white"
+    },
+    "Keystone": {
+        "color": "1C1C1C",
+        "logo": "keystone",
+        "logoColor": "white"
+    },
+    "Contentful": {
+        "color": "2478CC",
+        "logo": "contentful",
+        "logoColor": "white"
+    },
+    "Sanity": {
+        "color": "F03E2F",
+        "logo": "sanity",
+        "logoColor": "white"
+    },
+    "Prismic": {
+        "color": "5163BA",
+        "logo": "prismic",
+        "logoColor": "white"
+    },
+    "DatoCMS": {
+        "color": "FF7751",
+        "logo": "datocms",
+        "logoColor": "white"
+    },
+    "Shopify": {
+        "color": "7AB55C",
+        "logo": "shopify",
+        "logoColor": "white"
+    },
+    "WooCommerce": {
+        "color": "96588A",
+        "logo": "woocommerce",
+        "logoColor": "white"
+    },
+    "Magento": {
+        "color": "F46F25",
+        "logo": "magento",
+        "logoColor": "white"
+    },
+    "BigCommerce": {
+        "color": "121118",
+        "logo": "bigcommerce",
+        "logoColor": "white"
+    },
+    "Stripe": {
+        "color": "008CDD",
+        "logo": "stripe",
+        "logoColor": "white"
+    },
+    "Braintree": {
+        "color": "2BDE73",
+        "logo": "braintree",
+        "logoColor": "white"
+    },
+    "PayPal": {
+        "color": "00457C",
+        "logo": "paypal",
+        "logoColor": "white"
+    },
+    "Razorpay": {
+        "color": "0C2756",
+        "logo": "razorpay",
+        "logoColor": "white"
+    },
+    "Square": {
+        "color": "3A3A3A",
+        "logo": "square",
+        "logoColor": "white"
+    },
+    "JWT": {
+        "color": "000000",
+        "logo": "jsonwebtokens",
+        "logoColor": "white"
+    },
+    "Auth0": {
+        "color": "EB5424",
+        "logo": "auth0",
+        "logoColor": "white"
+    },
+    "Okta": {
+        "color": "0776C6",
+        "logo": "okta",
+        "logoColor": "white"
+    },
+    "Keycloak": {
+        "color": "2D3748",
+        "logo": "keycloak",
+        "logoColor": "white"
+    },
+    "NPM": {
+        "color": "CB3837",
+        "logo": "npm",
+        "logoColor": "white"
+    },
+    "Yarn": {
+        "color": "2C8EBB",
+        "logo": "yarn",
+        "logoColor": "white"
+    },
+    "PNPM": {
+        "color": "F69220",
+        "logo": "pnpm",
+        "logoColor": "black"
+    },
+    "Bower": {
+        "color": "EF5734",
+        "logo": "bower",
+        "logoColor": "white"
+    },
+    "Jest": {
+        "color": "C21325",
+        "logo": "jest",
+        "logoColor": "white"
+    },
+    "Vitest": {
+        "color": "6E9F18",
+        "logo": "vitest",
+        "logoColor": "white"
+    },
+    "Mocha": {
+        "color": "8D6748",
+        "logo": "mocha",
+        "logoColor": "white"
+    },
+    "Chai": {
+        "color": "A30701",
+        "logo": "chai",
+        "logoColor": "white"
+    },
+    "Ava": {
+        "color": "000000",
+        "logo": "ava",
+        "logoColor": "white"
+    },
+    "Jasmine": {
+        "color": "8A4182",
+        "logo": "jasmine",
+        "logoColor": "white"
+    },
+    "Karma": {
+        "color": "1C8CBA",
+        "logo": "karma",
+        "logoColor": "white"
+    },
+    "Cypress": {
+        "color": "17202C",
+        "logo": "cypress",
+        "logoColor": "white"
+    },
+    "Playwright": {
+        "color": "2EAD33",
+        "logo": "playwright",
+        "logoColor": "white"
+    },
+    "Storybook": {
+        "color": "FF4785",
+        "logo": "storybook",
+        "logoColor": "white"
+    },
+    "Electron": {
+        "color": "47848F",
+        "logo": "electron",
+        "logoColor": "white"
+    },
+    "Tauri": {
+        "color": "24C8DB",
+        "logo": "tauri",
+        "logoColor": "black"
+    },
+    "Capacitor": {
+        "color": "119EFF",
+        "logo": "capacitor",
+        "logoColor": "white"
+    },
+    "Cordova": {
+        "color": "35434F",
+        "logo": "apachecordova",
+        "logoColor": "white"
+    },
+    "Ionic": {
+        "color": "3880FF",
+        "logo": "ionic",
+        "logoColor": "white"
+    },
+    "React Native": {
+        "color": "20232A",
+        "logo": "react",
+        "logoColor": "61DAFB"
+    },
+    "Flutter": {
+        "color": "02569B",
+        "logo": "flutter",
+        "logoColor": "white"
+    },
+    "Dart": {
+        "color": "0175C2",
+        "logo": "dart",
+        "logoColor": "white"
+    },
+    "Android": {
+        "color": "3DDC84",
+        "logo": "android",
+        "logoColor": "white"
+    },
+    "iOS": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Xcode": {
+        "color": "1575F9",
+        "logo": "xcode",
+        "logoColor": "white"
+    },
+    "Android Studio": {
+        "color": "3DDC84",
+        "logo": "androidstudio",
+        "logoColor": "white"
+    },
+    "Xamarin": {
+        "color": "3498DB",
+        "logo": "xamarin",
+        "logoColor": "white"
+    },
+    "Unity": {
+        "color": "000000",
+        "logo": "unity",
+        "logoColor": "white"
+    },
+    "Unreal Engine": {
+        "color": "0E1128",
+        "logo": "unrealengine",
+        "logoColor": "white"
+    },
+    "Godot": {
+        "color": "478CBF",
+        "logo": "godotengine",
+        "logoColor": "white"
+    },
+    "Phaser": {
+        "color": "2E2E2E",
+        "logo": "phaser",
+        "logoColor": "white"
+    },
+    "Pandas": {
+        "color": "150458",
+        "logo": "pandas",
+        "logoColor": "white"
+    },
+    "NumPy": {
+        "color": "013243",
+        "logo": "numpy",
+        "logoColor": "white"
+    },
+    "SciPy": {
+        "color": "8CAAE6",
+        "logo": "scipy",
+        "logoColor": "black"
+    },
+    "Matplotlib": {
+        "color": "11557C",
+        "logo": "matplotlib",
+        "logoColor": "white"
+    },
+    "Seaborn": {
+        "color": "4EABE6",
+        "logo": "seaborn",
+        "logoColor": "white"
+    },
+    "TensorFlow": {
+        "color": "FF6F00",
+        "logo": "tensorflow",
+        "logoColor": "white"
+    },
+    "Keras": {
+        "color": "D00000",
+        "logo": "keras",
+        "logoColor": "white"
+    },
+    "PyTorch": {
+        "color": "EE4C2C",
+        "logo": "pytorch",
+        "logoColor": "white"
+    },
+    "OpenCV": {
+        "color": "5C3EE8",
+        "logo": "opencv",
+        "logoColor": "white"
+    },
+    "Scikit-learn": {
+        "color": "F7931E",
+        "logo": "scikitlearn",
+        "logoColor": "white"
+    },
+    "XGBoost": {
+        "color": "EA7B09",
+        "logo": "xgboost",
+        "logoColor": "white"
+    },
+    "LightGBM": {
+        "color": "035A30",
+        "logo": "lightgbm",
+        "logoColor": "white"
+    },
+    "CatBoost": {
+        "color": "FFCC00",
+        "logo": "catboost",
+        "logoColor": "black"
+    },
+    "ONNX": {
+        "color": "005CED",
+        "logo": "onnx",
+        "logoColor": "white"
+    },
+    "Ray": {
+        "color": "028CF0",
+        "logo": "ray",
+        "logoColor": "white"
+    },
+    "MLflow": {
+        "color": "0194E2",
+        "logo": "mlflow",
+        "logoColor": "white"
+    },
+    "Weights & Biases": {
+        "color": "FFBE00",
+        "logo": "weightsandbiases",
+        "logoColor": "black"
+    },
+    "Neptune": {
+        "color": "2E5EAA",
+        "logo": "neptune",
+        "logoColor": "white"
+    },
+    "Comet": {
+        "color": "FD755C",
+        "logo": "comet",
+        "logoColor": "white"
+    },
+    "Jupyter": {
+        "color": "F37626",
+        "logo": "jupyter",
+        "logoColor": "white"
+    },
+    "Apache Spark": {
+        "color": "E25A1C",
+        "logo": "apachespark",
+        "logoColor": "white"
+    },
+    "Apache Flink": {
+        "color": "E6526F",
+        "logo": "apacheflink",
+        "logoColor": "white"
+    },
+    "Hadoop": {
+        "color": "66CCFF",
+        "logo": "apachehadoop",
+        "logoColor": "black"
+    },
+    "Hive": {
+        "color": "FDEE21",
+        "logo": "apachehive",
+        "logoColor": "black"
+    },
+    "Presto": {
+        "color": "5890FF",
+        "logo": "prestodb",
+        "logoColor": "white"
+    },
+    "Trino": {
+        "color": "DD00A1",
+        "logo": "trino",
+        "logoColor": "white"
+    },
+    "Apache Druid": {
+        "color": "29F1FB",
+        "logo": "apachedruid",
+        "logoColor": "black"
+    },
+    "NiFi": {
+        "color": "0096D6",
+        "logo": "apachenifi",
+        "logoColor": "white"
+    },
+    "Airflow": {
+        "color": "017CEE",
+        "logo": "apacheairflow",
+        "logoColor": "white"
+    },
+    "Dagster": {
+        "color": "1C2C4C",
+        "logo": "dagster",
+        "logoColor": "white"
+    },
+    "Luigi": {
+        "color": "4C1D95",
+        "logo": "luigi",
+        "logoColor": "white"
+    },
+    "Kubeflow": {
+        "color": "3D4C6F",
+        "logo": "kubeflow",
+        "logoColor": "white"
+    },
+    "Postman": {
+        "color": "FF6C37",
+        "logo": "postman",
+        "logoColor": "white"
+    },
+    "Insomnia": {
+        "color": "4000BF",
+        "logo": "insomnia",
+        "logoColor": "white"
+    },
+    "Swagger": {
+        "color": "85EA2D",
+        "logo": "swagger",
+        "logoColor": "black"
+    },
+    "Nginx Unit": {
+        "color": "009639",
+        "logo": "nginx",
+        "logoColor": "white"
+    },
+    "uWSGI": {
+        "color": "000000",
+        "logo": "uwsgi",
+        "logoColor": "white"
+    },
+    "Gunicorn": {
+        "color": "499848",
+        "logo": "gunicorn",
+        "logoColor": "white"
+    },
+    "Linux": {
+        "color": "FCC624",
+        "logo": "linux",
+        "logoColor": "black"
+    },
+    "Ubuntu": {
+        "color": "E95420",
+        "logo": "ubuntu",
+        "logoColor": "white"
+    },
+    "Debian": {
+        "color": "A81D33",
+        "logo": "debian",
+        "logoColor": "white"
+    },
+    "Arch Linux": {
+        "color": "1793D1",
+        "logo": "archlinux",
+        "logoColor": "white"
+    },
+    "Fedora": {
+        "color": "294172",
+        "logo": "fedora",
+        "logoColor": "white"
+    },
+    "CentOS": {
+        "color": "262577",
+        "logo": "centos",
+        "logoColor": "white"
+    },
+    "Alpine Linux": {
+        "color": "0D597F",
+        "logo": "alpinelinux",
+        "logoColor": "white"
+    },
+    "Red Hat": {
+        "color": "EE0000",
+        "logo": "redhat",
+        "logoColor": "white"
+    },
+    "Windows": {
+        "color": "0078D6",
+        "logo": "windows",
+        "logoColor": "white"
+    },
+    "macOS": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Zsh": {
+        "color": "F15A24",
+        "logo": "zsh",
+        "logoColor": "white"
+    },
+    "Bash": {
+        "color": "4EAA25",
+        "logo": "gnubash",
+        "logoColor": "white"
+    },
+    "PowerShell": {
+        "color": "5391FE",
+        "logo": "powershell",
+        "logoColor": "white"
+    },
+    "Git": {
+        "color": "F05032",
+        "logo": "git",
+        "logoColor": "white"
+    },
+    "GitHub": {
+        "color": "181717",
+        "logo": "github",
+        "logoColor": "white"
+    },
+    "GitLab": {
+        "color": "FC6D26",
+        "logo": "gitlab",
+        "logoColor": "white"
+    },
+    "Bitbucket": {
+        "color": "0052CC",
+        "logo": "bitbucket",
+        "logoColor": "white"
+    },
+    "Gitea": {
+        "color": "609926",
+        "logo": "gitea",
+        "logoColor": "white"
+    },
+    "Gerrit": {
+        "color": "EEEEEE",
+        "logo": "gerrit",
+        "logoColor": "black"
+    },
+    "VS Code": {
+        "color": "007ACC",
+        "logo": "visualstudiocode",
+        "logoColor": "white"
+    },
+    "Visual Studio": {
+        "color": "5C2D91",
+        "logo": "visualstudio",
+        "logoColor": "white"
+    },
+    "IntelliJ IDEA": {
+        "color": "000000",
+        "logo": "intellijidea",
+        "logoColor": "white"
+    },
+    "WebStorm": {
+        "color": "000000",
+        "logo": "webstorm",
+        "logoColor": "white"
+    },
+    "PyCharm": {
+        "color": "000000",
+        "logo": "pycharm",
+        "logoColor": "white"
+    },
+    "CLion": {
+        "color": "000000",
+        "logo": "clion",
+        "logoColor": "white"
+    },
+    "GoLand": {
+        "color": "000000",
+        "logo": "goland",
+        "logoColor": "white"
+    },
+    "RubyMine": {
+        "color": "000000",
+        "logo": "rubymine",
+        "logoColor": "white"
+    },
+    "Rider": {
+        "color": "000000",
+        "logo": "rider",
+        "logoColor": "white"
+    },
+    "Xcode IDE": {
+        "color": "1575F9",
+        "logo": "xcode",
+        "logoColor": "white"
+    },
+    "Neovim": {
+        "color": "57A143",
+        "logo": "neovim",
+        "logoColor": "white"
+    },
+    "Vim": {
+        "color": "019733",
+        "logo": "vim",
+        "logoColor": "white"
+    },
+    "Emacs": {
+        "color": "7F5AB6",
+        "logo": "gnuemacs",
+        "logoColor": "white"
+    },
+    "Sublime Text": {
+        "color": "FF9800",
+        "logo": "sublimetext",
+        "logoColor": "white"
+    },
+    "Atom": {
+        "color": "66595C",
+        "logo": "atom",
+        "logoColor": "white"
+    },
+    "Jira": {
+        "color": "0052CC",
+        "logo": "jira",
+        "logoColor": "white"
+    },
+    "Confluence": {
+        "color": "172B4D",
+        "logo": "confluence",
+        "logoColor": "white"
+    },
+    "Trello": {
+        "color": "0052CC",
+        "logo": "trello",
+        "logoColor": "white"
+    },
+    "Asana": {
+        "color": "273347",
+        "logo": "asana",
+        "logoColor": "white"
+    },
+    "Linear": {
+        "color": "5E6AD2",
+        "logo": "linear",
+        "logoColor": "white"
+    },
+    "ClickUp": {
+        "color": "7B68EE",
+        "logo": "clickup",
+        "logoColor": "white"
+    },
+    "Notion": {
+        "color": "000000",
+        "logo": "notion",
+        "logoColor": "white"
+    },
+    "Slack": {
+        "color": "4A154B",
+        "logo": "slack",
+        "logoColor": "white"
+    },
+    "Discord": {
+        "color": "5865F2",
+        "logo": "discord",
+        "logoColor": "white"
+    },
+    "Microsoft Teams": {
+        "color": "6264A7",
+        "logo": "microsoftteams",
+        "logoColor": "white"
+    },
+    "Raspberry Pi": {
+        "color": "A22846",
+        "logo": "raspberrypi",
+        "logoColor": "white"
+    },
+    "Arduino": {
+        "color": "00979D",
+        "logo": "arduino",
+        "logoColor": "white"
+    },
+    "ESP32": {
+        "color": "000000",
+        "logo": "espressif",
+        "logoColor": "white"
+    },
+    "OpenSSL": {
+        "color": "721412",
+        "logo": "openssl",
+        "logoColor": "white"
+    },
+    "Let's Encrypt": {
+        "color": "003A70",
+        "logo": "letsencrypt",
+        "logoColor": "white"
+    },
+    "NPM Audit": {
+        "color": "CB3837",
+        "logo": "npm",
+        "logoColor": "white"
+    },
+    "Snyk": {
+        "color": "4C4A73",
+        "logo": "snyk",
+        "logoColor": "white"
+    },
+    "Dependabot": {
+        "color": "025E8C",
+        "logo": "dependabot",
+        "logoColor": "white"
+    },
+    "SonarQube": {
+        "color": "4E9BCD",
+        "logo": "sonarqube",
+        "logoColor": "white"
+    },
+    "SonarCloud": {
+        "color": "F3702A",
+        "logo": "sonarcloud",
+        "logoColor": "white"
+    },
+    "Husky": {
+        "color": "000000",
+        "logo": "husky",
+        "logoColor": "white"
+    },
+    "Commitlint": {
+        "color": "000000",
+        "logo": "commitlint",
+        "logoColor": "white"
+    },
+    "Lint-staged": {
+        "color": "000000",
+        "logo": "lintstaged",
+        "logoColor": "white"
+    },
+    "YAML": {
+        "color": "CB171E",
+        "logo": "yaml",
+        "logoColor": "white"
+    },
+    "JSON": {
+        "color": "000000",
+        "logo": "json",
+        "logoColor": "white"
+    },
+    "XML": {
+        "color": "8A2BE2",
+        "logo": "xml",
+        "logoColor": "white"
+    },
+    "Markdown": {
+        "color": "000000",
+        "logo": "markdown",
+        "logoColor": "white"
+    },
+    "Mermaid": {
+        "color": "0F663A",
+        "logo": "mermaid",
+        "logoColor": "white"
+    },
+    "WebAssembly": {
+        "color": "654FF0",
+        "logo": "webassembly",
+        "logoColor": "white"
+    },
+    "Three.js": {
+        "color": "000000",
+        "logo": "threedotjs",
+        "logoColor": "white"
+    },
+    "D3.js": {
+        "color": "F9A03C",
+        "logo": "d3dotjs",
+        "logoColor": "black"
+    },
+    "Chart.js": {
+        "color": "FF6384",
+        "logo": "chartdotjs",
+        "logoColor": "white"
+    },
+    "Leaflet": {
+        "color": "199900",
+        "logo": "leaflet",
+        "logoColor": "white"
+    },
+    "Mapbox": {
+        "color": "000000",
+        "logo": "mapbox",
+        "logoColor": "white"
+    },
+    "OpenLayers": {
+        "color": "1F6B75",
+        "logo": "openlayers",
+        "logoColor": "white"
+    },
+    "WebRTC": {
+        "color": "333333",
+        "logo": "webrtc",
+        "logoColor": "white"
+    },
+    "Socket.io": {
+        "color": "010101",
+        "logo": "socketdotio",
+        "logoColor": "white"
+    },
+    "SignalR": {
+        "color": "5C2D91",
+        "logo": "microsoft",
+        "logoColor": "white"
+    },
+    "OpenAI": {
+        "color": "412991",
+        "logo": "openai",
+        "logoColor": "white"
+    },
+    "Hugging Face": {
+        "color": "FFD21E",
+        "logo": "huggingface",
+        "logoColor": "black"
+    },
+    "LangChain": {
+        "color": "000000",
+        "logo": "langchain",
+        "logoColor": "white"
+    },
+    "Stripe Payments": {
+        "color": "635BFF",
+        "logo": "stripe",
+        "logoColor": "white"
+    },
+    "Paytm": {
+        "color": "20336B",
+        "logo": "paytm",
+        "logoColor": "white"
+    },
+    "Mollie": {
+        "color": "000000",
+        "logo": "mollie",
+        "logoColor": "white"
+    },
+    "S3": {
+        "color": "569A31",
+        "logo": "amazons3",
+        "logoColor": "white"
+    },
+    "CloudFront": {
+        "color": "E05243",
+        "logo": "awsamplify",
+        "logoColor": "white"
+    },
+    "Route 53": {
+        "color": "8C4FFF",
+        "logo": "amazonroute53",
+        "logoColor": "white"
+    },
+    "EC2": {
+        "color": "FF9900",
+        "logo": "amazonec2",
+        "logoColor": "black"
+    },
+    "ECS": {
+        "color": "FF9900",
+        "logo": "amazon-ecs",
+        "logoColor": "black"
+    },
+    "EKS": {
+        "color": "FF9900",
+        "logo": "amazoneks",
+        "logoColor": "black"
+    },
+    "Lambda": {
+        "color": "FF9900",
+        "logo": "awslambda",
+        "logoColor": "black"
+    },
+    "DynamoDB": {
+        "color": "4053D6",
+        "logo": "amazondynamodb",
+        "logoColor": "white"
+    },
+    "SQS": {
+        "color": "FF4F8B",
+        "logo": "amazonsqs",
+        "logoColor": "white"
+    },
+    "SNS": {
+        "color": "FF4F8B",
+        "logo": "amazonsns",
+        "logoColor": "white"
+    },
+    "RDS": {
+        "color": "527FFF",
+        "logo": "amazonrds",
+        "logoColor": "white"
+    },
+    "CloudWatch": {
+        "color": "FF4F8B",
+        "logo": "amazoncloudwatch",
+        "logoColor": "white"
+    },
+    "IAM": {
+        "color": "DD344C",
+        "logo": "awsiam",
+        "logoColor": "white"
+    },
+    "Cloud SQL": {
+        "color": "4285F4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+    },
+    "BigQuery": {
+        "color": "4285F4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+    },
+    "Cloud Run": {
+        "color": "4285F4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+    },
+    "GKE": {
+        "color": "4285F4",
+        "logo": "googlecloud",
+        "logoColor": "white"
+    },
+    "Firebase": {
+        "color": "FFCA28",
+        "logo": "firebase",
+        "logoColor": "000000"
+    },
+    "Firestore": {
+        "color": "FFCA28",
+        "logo": "firebase",
+        "logoColor": "000000"
+    },
+    "Supabase Auth": {
+        "color": "3ECF8E",
+        "logo": "supabase",
+        "logoColor": "black"
+    },
+    "Azure Functions": {
+        "color": "0062AD",
+        "logo": "azurefunctions",
+        "logoColor": "white"
+    },
+    "Azure Storage": {
+        "color": "0078D4",
+        "logo": "microsoftazure",
+        "logoColor": "white"
+    },
+    "Cosmos DB": {
+        "color": "2E2E2E",
+        "logo": "azurecosmosdb",
+        "logoColor": "white"
+    },
+    "Selenium": {
+        "color": "43B02A",
+        "logo": "selenium",
+        "logoColor": "white"
+    },
+    "Appium": {
+        "color": "000000",
+        "logo": "appium",
+        "logoColor": "white"
+    },
+    "OpenGL": {
+        "color": "5586A4",
+        "logo": "opengl",
+        "logoColor": "white"
+    },
+    "Vulkan": {
+        "color": "AC162C",
+        "logo": "vulkan",
+        "logoColor": "white"
+    },
+    "Metal": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Protobuf": {
+        "color": "000000",
+        "logo": "protobuf",
+        "logoColor": "white"
+    },
+    "Thrift": {
+        "color": "D12127",
+        "logo": "apachethrift",
+        "logoColor": "white"
+    },
+    "Redis Queue": {
+        "color": "DC382D",
+        "logo": "redis",
+        "logoColor": "white"
+    },
+    "BullMQ": {
+        "color": "000000",
+        "logo": "bullmq",
+        "logoColor": "white"
+    },
+    "Celery Worker": {
+        "color": "37814A",
+        "logo": "celery",
+        "logoColor": "white"
+    },
+    "OpenShift Pipelines": {
+        "color": "EE0000",
+        "logo": "redhatopenshift",
+        "logoColor": "white"
+    },
+    "Argo CD": {
+        "color": "EF7B4D",
+        "logo": "argo",
+        "logoColor": "white"
+    },
+    "Tekton": {
+        "color": "F9748F",
+        "logo": "tekton",
+        "logoColor": "white"
+    },
+    "Istio": {
+        "color": "466BB0",
+        "logo": "istio",
+        "logoColor": "white"
+    },
+    "Linkerd": {
+        "color": "2B9B98",
+        "logo": "linkerd",
+        "logoColor": "white"
+    },
+    "Envoy": {
+        "color": "AC2D7A",
+        "logo": "envoyproxy",
+        "logoColor": "white"
+    },
+    "HTTPie": {
+        "color": "73DC8C",
+        "logo": "httpie",
+        "logoColor": "black"
+    },
+    "cURL": {
+        "color": "073551",
+        "logo": "curl",
+        "logoColor": "white"
+    },
+    "Monaco Editor": {
+        "color": "007ACC",
+        "logo": "visualstudiocode",
+        "logoColor": "white"
+    },
+    "Ace Editor": {
+        "color": "000000",
+        "logo": "ace",
+        "logoColor": "white"
+    },
+    "SQLite Studio": {
+        "color": "003B57",
+        "logo": "sqlite",
+        "logoColor": "white"
+    },
+    "Yup": {
+        "color": "2C4F7C",
+        "logo": "yup",
+        "logoColor": "white"
+    },
+    "Zod": {
+        "color": "3E67B1",
+        "logo": "zod",
+        "logoColor": "white"
+    },
+    "Formik": {
+        "color": "235788",
+        "logo": "formik",
+        "logoColor": "white"
+    },
+    "React Hook Form": {
+        "color": "EC5990",
+        "logo": "reacthookform",
+        "logoColor": "white"
+    },
+    "TanStack Table": {
+        "color": "000000",
+        "logo": "tanstack",
+        "logoColor": "white"
+    },
+    "AG Grid": {
+        "color": "23A96E",
+        "logo": "aggrid",
+        "logoColor": "white"
+    },
+    "MUI Data Grid": {
+        "color": "007FFF",
+        "logo": "mui",
+        "logoColor": "white"
+    },
+    "Framer Motion": {
+        "color": "0055FF",
+        "logo": "framer",
+        "logoColor": "white"
+    },
+    "GreenSock": {
+        "color": "88CE02",
+        "logo": "greensock",
+        "logoColor": "black"
+    },
+    "Anime.js": {
+        "color": "2E51A2",
+        "logo": "animejs",
+        "logoColor": "white"
+    },
+    "Three Fiber": {
+        "color": "000000",
+        "logo": "react",
+        "logoColor": "61DAFB"
+    },
+    "Babylon.js": {
+        "color": "3F1169",
+        "logo": "babylondotjs",
+        "logoColor": "white"
+    },
+    "WebPack Module Federation": {
+        "color": "8DD6F9",
+        "logo": "webpack",
+        "logoColor": "black"
+    },
+    "Rspack": {
+        "color": "0E83CD",
+        "logo": "rspack",
+        "logoColor": "white"
+    },
+    "Biome": {
+        "color": "30D475",
+        "logo": "biome",
+        "logoColor": "black"
+    },
+    "OpenAPI Generator": {
+        "color": "6BA539",
+        "logo": "openapiinitiative",
+        "logoColor": "white"
+    },
+    "Prism": {
+        "color": "2EB4A6",
+        "logo": "stoplight",
+        "logoColor": "white"
+    },
+    "Zookeeper": {
+        "color": "D2B48C",
+        "logo": "apachezookeeper",
+        "logoColor": "black"
+    },
+    "etcd": {
+        "color": "419EDA",
+        "logo": "etcd",
+        "logoColor": "white"
+    },
+    "Security.txt": {
+        "color": "151515",
+        "logo": "securityscorecard",
+        "logoColor": "white"
+    },
+    "CSP": {
+        "color": "000000",
+        "logo": "mozilla",
+        "logoColor": "white"
+    },
+    "Ms Word": {
+        "color": "2B579A",
+        "logo": "microsoftword",
+        "logoColor": "white"
+    },
+    "Ms Excel": {
+        "color": "217346",
+        "logo": "microsoftexcel",
+        "logoColor": "white"
+    },
+    "Ms PowerPoint": {
+        "color": "D24726",
+        "logo": "microsoftpowerpoint",
+        "logoColor": "white"
+    },
+    "Outlook": {
+        "color": "0078D4",
+        "logo": "microsoftoutlook",
+        "logoColor": "white"
+    },
+    "OneNote": {
+        "color": "7719AA",
+        "logo": "microsoftonenote",
+        "logoColor": "white"
+    },
+    "Teams": {
+        "color": "6264A7",
+        "logo": "microsoftteams",
+        "logoColor": "white"
+    },
+    "OneDrive": {
+        "color": "094AB2",
+        "logo": "microsoftonedrive",
+        "logoColor": "white"
+    },
+    "SharePoint": {
+        "color": "0078D4",
+        "logo": "microsoftsharepoint",
+        "logoColor": "white"
+    },
+    "Access": {
+        "color": "68217A",
+        "logo": "microsoftaccess",
+        "logoColor": "white"
+    },
+    "Publisher": {
+        "color": "68217A",
+        "logo": "microsoftpublisher",
+        "logoColor": "white"
+    },
+    "Visio": {
+        "color": "39527B",
+        "logo": "microsoftvisio",
+        "logoColor": "white"
+    },
+    "Notepad": {
+        "color": "FFFFFF",
+        "logo": "windows",
+        "logoColor": "black"
+    },
+    "Calculator": {
+        "color": "0078D4",
+        "logo": "windows",
+        "logoColor": "white"
+    },
+    "Paint": {
+        "color": "FFFFFF",
+        "logo": "microsoftpaint",
+        "logoColor": "black"
+    },
+    "Xbox": {
+        "color": "107C10",
+        "logo": "xbox",
+        "logoColor": "white"
+    },
+    "PowerShell": {
+        "color": "5391FE",
+        "logo": "powershell",
+        "logoColor": "white"
+    },
+    "Windows Terminal": {
+        "color": "0078D7",
+        "logo": "windows",
+        "logoColor": "white"
+    },
+    "Command Prompt": {
+        "color": "000000",
+        "logo": "windows",
+        "logoColor": "white"
+    },
+    "Google Docs": {
+        "color": "4285F4",
+        "logo": "googledocs",
+        "logoColor": "white"
+    },
+    "Google Sheets": {
+        "color": "0F9D58",
+        "logo": "googlesheets",
+        "logoColor": "white"
+    },
+    "Google Slides": {
+        "color": "F4B400",
+        "logo": "googleslides",
+        "logoColor": "white"
+    },
+    "Google Drive": {
+        "color": "4285F4",
+        "logo": "googledrive",
+        "logoColor": "white"
+    },
+    "Gmail": {
+        "color": "D14836",
+        "logo": "gmail",
+        "logoColor": "white"
+    },
+    "Notion": {
+        "color": "000000",
+        "logo": "notion",
+        "logoColor": "white"
+    },
+    "Evernote": {
+        "color": "2DBE60",
+        "logo": "evernote",
+        "logoColor": "white"
+    },
+    "Google Keep": {
+        "color": "FBBC05",
+        "logo": "googlekeep",
+        "logoColor": "black"
+    },
+    "Apple Notes": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "PayPal": {
+        "color": "00457C",
+        "logo": "paypal",
+        "logoColor": "white"
+    },
+    "Stripe": {
+        "color": "635BFF",
+        "logo": "stripe",
+        "logoColor": "white"
+    },
+    "Square": {
+        "color": "3A3A3A",
+        "logo": "square",
+        "logoColor": "white"
+    },
+    "Venmo": {
+        "color": "3D95CE",
+        "logo": "venmo",
+        "logoColor": "white"
+    },
+    "Cash App": {
+        "color": "13B833",
+        "logo": "cashapp",
+        "logoColor": "white"
+    },
+    "Robinhood": {
+        "color": "00DA52",
+        "logo": "robinhood",
+        "logoColor": "white"
+    },
+    "E*TRADE": {
+        "color": "0080C7",
+        "logo": "etrade",
+        "logoColor": "white"
+    },
+    "TD Ameritrade": {
+        "color": "005C97",
+        "logo": "tdameritrade",
+        "logoColor": "white"
+    },
+    "Schwab": {
+        "color": "0042AD",
+        "logo": "charlesschwab",
+        "logoColor": "white"
+    },
+    "Fidelity": {
+        "color": "113F8C",
+        "logo": "fidelity",
+        "logoColor": "white"
+    },
+    "Google Calendar": {
+        "color": "4285F4",
+        "logo": "googlecalendar",
+        "logoColor": "white"
+    },
+    "Outlook Calendar": {
+        "color": "0078D4",
+        "logo": "microsoftoutlook",
+        "logoColor": "white"
+    },
+    "Apple Calendar": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Trello": {
+        "color": "0052CC",
+        "logo": "trello",
+        "logoColor": "white"
+    },
+    "Asana": {
+        "color": "273347",
+        "logo": "asana",
+        "logoColor": "white"
+    },
+    "Slack": {
+        "color": "4A154B",
+        "logo": "slack",
+        "logoColor": "white"
+    },
+    "Discord": {
+        "color": "5865F2",
+        "logo": "discord",
+        "logoColor": "white"
+    },
+    "Zoom": {
+        "color": "2D8CFF",
+        "logo": "zoom",
+        "logoColor": "white"
+    },
+    "Skype": {
+        "color": "00AFF0",
+        "logo": "skype",
+        "logoColor": "white"
+    },
+    "Google Meet": {
+        "color": "0F9D58",
+        "logo": "googlemeet",
+        "logoColor": "white"
+    },
+    "Evernote": {
+        "color": "2DBE60",
+        "logo": "evernote",
+        "logoColor": "white"
+    },
+    "Notability": {
+        "color": "000000",
+        "logo": "notability",
+        "logoColor": "white"
+    },
+    "GoodNotes": {
+        "color": "000000",
+        "logo": "goodnotes",
+        "logoColor": "white"
+    },
+    "Bear": {
+        "color": "000000",
+        "logo": "bear",
+        "logoColor": "white"
+    },
+    "Spotify": {
+        "color": "1DB954",
+        "logo": "spotify",
+        "logoColor": "white"
+    },
+    "Apple Music": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "YouTube": {
+        "color": "FF0000",
+        "logo": "youtube",
+        "logoColor": "white"
+    },
+    "Vimeo": {
+        "color": "1AB7EA",
+        "logo": "vimeo",
+        "logoColor": "white"
+    },
+    "SoundCloud": {
+        "color": "FF5500",
+        "logo": "soundcloud",
+        "logoColor": "white"
+    },
+    "Dropbox": {
+        "color": "0061FF",
+        "logo": "dropbox",
+        "logoColor": "white"
+    },
+    "Google Photos": {
+        "color": "4285F4",
+        "logo": "googlephotos",
+        "logoColor": "white"
+    },
+    "iCloud": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "OneDrive": {
+        "color": "094AB2",
+        "logo": "microsoftonedrive",
+        "logoColor": "white"
+    },
+    "Adobe Photoshop": {
+        "color": "31A8FF",
+        "logo": "adobephotoshop",
+        "logoColor": "white"
+    },
+    "Adobe Illustrator": {
+        "color": "FF9A00",
+        "logo": "adobeillustrator",
+        "logoColor": "white"
+    },
+    "Adobe InDesign": {
+        "color": "FF3366",
+        "logo": "adobeindesign",
+        "logoColor": "white"
+    },
+    "Adobe XD": {
+        "color": "FF61F6",
+        "logo": "adobexd",
+        "logoColor": "white"
+    },
+    "Figma": {
+        "color": "F24E1E",
+        "logo": "figma",
+        "logoColor": "white"
+    },
+    "Canva": {
+        "color": "00C4CC",
+        "logo": "canva",
+        "logoColor": "white"
+    },
+    "Sketch": {
+        "color": "F7B500",
+        "logo": "sketch",
+        "logoColor": "black"
+    },
+    "Affinity Designer": {
+        "color": "5E23CC",
+        "logo": "affinitydesigner",
+        "logoColor": "white"
+    },
+    "Affinity Photo": {
+        "color": "5E23CC",
+        "logo": "affinityphoto",
+        "logoColor": "white"
+    },
+    "Affinity Publisher": {
+        "color": "5E23CC",
+        "logo": "affinitypublisher",
+        "logoColor": "white"
+    },
+    "Notepad++": {
+        "color": "82C0AC",
+        "logo": "notepadplusplus",
+        "logoColor": "white"
+    },
+    "Sublime Text": {
+        "color": "FF9800",
+        "logo": "sublimetext",
+        "logoColor": "white"
+    },
+    "Atom": {
+        "color": "66595C",
+        "logo": "atom",
+        "logoColor": "white"
+    },
+    "BBEdit": {
+        "color": "FFFFFF",
+        "logo": "bbedit",
+        "logoColor": "black"
+    },
+    "TextMate": {
+        "color": "000000",
+        "logo": "textmate",
+        "logoColor": "white"
+    },
+    "WinRAR": {
+        "color": "0078D7",
+        "logo": "winrar",
+        "logoColor": "white"
+    },
+    "7-Zip": {
+        "color": "A52A2A",
+        "logo": "7zip",
+        "logoColor": "white"
+    },
+    "FileZilla": {
+        "color": "E03E2D",
+        "logo": "filezilla",
+        "logoColor": "white"
+    },
+    "Total Commander": {
+        "color": "000000",
+        "logo": "fileicon",
+        "logoColor": "white"
+    },
+    "UltraEdit": {
+        "color": "FF0000",
+        "logo": "ultraedit",
+        "logoColor": "white"
+    },
+    "VLC": {
+        "color": "F58220",
+        "logo": "vlcmediaplayer",
+        "logoColor": "white"
+    },
+    "QuickTime": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Windows Media Player": {
+        "color": "0078D7",
+        "logo": "windows",
+        "logoColor": "white"
+    },
+    "iTunes": {
+        "color": "000000",
+        "logo": "apple",
+        "logoColor": "white"
+    },
+    "Spotify": {
+        "color": "1DB954",
+        "logo": "spotify",
+        "logoColor": "white"
+    },
+    "Adobe Acrobat": {
+        "color": "FF0000",
+        "logo": "adobeacrobatreader",
+        "logoColor": "white"
+    },
+    "Foxit Reader": {
+        "color": "EE4A35",
+        "logo": "foxitreader",
+        "logoColor": "white"
+    },
+    "Sumatra PDF": {
+        "color": "00BFFF",
+        "logo": "sumatrapdf",
+        "logoColor": "white"
+    },
+    "Okular": {
+        "color": "000000",
+        "logo": "okular",
+        "logoColor": "white"
+    },
+    "Steam": {
+        "color": "000000",
+        "logo": "steam",
+        "logoColor": "white"
+    },
+    "Epic Games": {
+        "color": "313131",
+        "logo": "epicgames",
+        "logoColor": "white"
+    },
+    "GOG": {
+        "color": "FFCC00",
+        "logo": "gog",
+        "logoColor": "black"
+    },
+    "Origin": {
+        "color": "F68B1F",
+        "logo": "origin",
+        "logoColor": "white"
+    },
+    "Battle.net": {
+        "color": "00AEFF",
+        "logo": "battlenet",
+        "logoColor": "white"
+    },
+    "WhatsApp": {
+        "color": "25D366",
+        "logo": "whatsapp",
+        "logoColor": "white"
+    },
+    "Telegram": {
+        "color": "0088CC",
+        "logo": "telegram",
+        "logoColor": "white"
+    },
+    "Signal": {
+        "color": "3A76F0",
+        "logo": "signal",
+        "logoColor": "white"
+    },
+    "WeChat": {
+        "color": "7BB32E",
+        "logo": "wechat",
+        "logoColor": "white"
+    },
+    "Line": {
+        "color": "00C300",
+        "logo": "line",
+        "logoColor": "white"
+    },
+    "Tally": {
+        "color": "F57C00",
+        "logo": "tally",
+        "logoColor": "white"
+    },
+    "QuickBooks": {
+        "color": "2CA01C",
+        "logo": "quickbooks",
+        "logoColor": "white"
+    },
+    "Zoho Books": {
+        "color": "E99100",
+        "logo": "zoho",
+        "logoColor": "white"
+    },
+    "FreshBooks": {
+        "color": "2D3E52",
+        "logo": "freshbooks",
+        "logoColor": "white"
+    },
+    "Wave": {
+        "color": "34A853",
+        "logo": "wavemoney",
+        "logoColor": "white"
+    },
+    "Xero": {
+        "color": "13A2DC",
+        "logo": "xero",
+        "logoColor": "white"
+    },
+    "SAP": {
+        "color": "000000",
+        "logo": "sap",
+        "logoColor": "white"
+    },
+    "Oracle ERP": {
+        "color": "F80000",
+        "logo": "oracle",
+        "logoColor": "white"
+    },
+    "NetSuite": {
+        "color": "2C7DC0",
+        "logo": "netsuite",
+        "logoColor": "white"
+    },
+    "Sage": {
+        "color": "F4F401",
+        "logo": "sage",
+        "logoColor": "black"
+    },
+    "Intuit": {
+        "color": "1070C7",
+        "logo": "intuit",
+        "logoColor": "white"
+    },
+    "Stripe": {
+        "color": "635BFF",
+        "logo": "stripe",
+        "logoColor": "white"
+    },
+    "PayPal": {
+        "color": "003087",
+        "logo": "paypal",
+        "logoColor": "white"
+    },
+    "Square": {
+        "color": "3A3A3A",
+        "logo": "square",
+        "logoColor": "white"
+    },
+    "Razorpay": {
+        "color": "0C2756",
+        "logo": "razorpay",
+        "logoColor": "white"
+    },
+    "Payoneer": {
+        "color": "FF7200",
+        "logo": "payoneer",
+        "logoColor": "white"
+    },
+    "Wise": {
+        "color": "00B9FF",
+        "logo": "transferwise",
+        "logoColor": "black"
+    },
+    "Revolut": {
+        "color": "3E5DFF",
+        "logo": "revolut",
+        "logoColor": "white"
+    },
+    "Chase": {
+        "color": "0072CE",
+        "logo": "jp-?morgan?chase",
+        "logoColor": "white"
+    },
+    "Bank of America": {
+        "color": "E31937",
+        "logo": "bankofamerica",
+        "logoColor": "white"
+    },
+    "Citibank": {
+        "color": "1C4D8E",
+        "logo": "citibank",
+        "logoColor": "white"
+    },
+    "HSBC": {
+        "color": "DB0011",
+        "logo": "hsbc",
+        "logoColor": "white"
+    },
+    "Wells Fargo": {
+        "color": "C4012F",
+        "logo": "wellsfargo",
+        "logoColor": "white"
+    },
+    "American Express": {
+        "color": "2E77BC",
+        "logo": "americanexpress",
+        "logoColor": "white"
+    },
+    "Mastercard": {
+        "color": "EB001B",
+        "logo": "mastercard",
+        "logoColor": "white"
+    }
+}

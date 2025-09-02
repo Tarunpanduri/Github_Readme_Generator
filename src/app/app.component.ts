@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
+import { BadgeService } from './services/skills.service';
+
 
 @Component({
   selector: 'app-root',
@@ -15,7 +17,7 @@ export class AppComponent {
 
   
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: FormBuilder, private badgeService: BadgeService) {
     this.readmeForm = this.fb.group({
       name: [''],
       username: [''],
@@ -73,7 +75,20 @@ onGenerate() {
   this.selectedTab = 'code'; 
 }
 
+suggestions: {name: string, badge: string}[] = [];
 
+onSkillInput(value: string) {
+  this.suggestions = this.badgeService.getSuggestions(value);
+}
+
+
+selectSuggestion(s: { name: string; badge: string }) {
+  if (!this.skills.includes(s.name)) {
+    this.skills.push(s.name);
+  }
+  this.newSkill = '';
+  this.suggestions = [];
+}
 
 
 
@@ -87,49 +102,72 @@ onGenerate() {
   }
 
   generateMarkdown(): string {
-    const d = this.readmeForm.value;
+  const d = this.readmeForm.value;
 
-    const skillsMarkdown = this.skills
-      .map((skill, i) => {
-        const color = this.getSkillColor(i);
-        return `<span style="padding:4px 8px; margin:2px; background-color:${color}; border-radius:6px; display:inline-block;">${skill}</span>`;
-      })
-      .join(' ');
+// skills as Shields.io badges
+const skillsMarkdown = this.skills
+  .map(skill => {
+    const badgeUrl = this.badgeService.getBadge(skill);
+    return badgeUrl
+      ? `<img src="${badgeUrl}"/>`
+      : `<img src="https://img.shields.io/badge/${encodeURIComponent(skill)}-lightgrey?style=for-the-badge"/>`;
+  })
+  .join("\n  ");
 
-    return `
+
+  return `
 <h1 align="center">Hi 👋, I'm ${d.name}</h1>
 <h3 align="center">${d.tagline}</h3>
-${d.addImage && d.imageurl ? `<img align="right" alt="Coding" width="400" src="${d.imageurl}">` : ''}
+${d.addImage && d.imageurl ? `<img align="right" alt="Coding" width="340" src="${d.imageurl}">` : ""}
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=${d.username}&label=Profile%20views&color=0e75b6&style=flat" alt="${d.username}" /> 
-</p>
-
-- 🔭 I’m currently working on *${d.currentWork}*
-- 🌱 I’m currently learning *${d.learning}*
-- 👯 I’m looking to collaborate on *${d.collaboration}*
-- 🤝 I’m looking for help with *${d.help}*
-- 👨‍💻 All of my projects are available at [${d.portfolio}](${d.portfolio})
-- 💬 Ask me about *${d.ask}*
-- 📫 How to reach me *${d.email}*
-- ⚡ Fun fact *${d.funFact}*
-
-</p>
-<p>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="${d.linkedin}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="object-fit: contain; margin-right:10px" /></a>
-<a href="${d.instagram}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="object-fit: contain;" /></a>
+<img src="https://komarev.com/ghpvc/?username=${d.username}&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently working on **${d.currentWork}**
+
+- 🌱 I’m learning **${d.learning}**
+
+- 👯 I’m looking to collaborate on **${d.collaboration}**
+
+- 🤝 I’m open to help with **${d.help}**
+
+- 👨‍💻 Check my work here: [Portfolio](${d.portfolio})
+
+- 💬 Ask me about **${d.ask}**
+
+- 📫 Reach me at **${d.email}**
+
+- ⚡ Fun fact: **${d.funFact}**
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="${d.linkedin}" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+</a>
+<a href="${d.instagram}" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="30"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   ${skillsMarkdown}
 </p>
 
-<p><img height="195" style="margin-bottom:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=${d.username}&show_icons=true&locale=en&layout=compact" /></p>
-<p>&nbsp;<img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=${d.username}&show_icons=true&locale=en" /></p>
-<p><img height="195" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=${d.username}&" /></p>
+---
+
+### 📊 GitHub Stats:
+<p>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=${d.username}&show_icons=true&locale=en&layout=compact" />
+
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=${d.username}" />
+</p>
 `;
-  }
+}
+
 }

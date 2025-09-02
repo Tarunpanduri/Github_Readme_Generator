@@ -12,3 +12,16 @@
 .btn-secondary {
   @apply bg-gray-200 text-gray-800 px-5 py-2 rounded-xl shadow hover:bg-gray-300 transition;
 }
+
+
+/* Force anchor tags to display inline in markdown preview */
+.markdown-container a {
+  display: inline !important;
+  margin-right: 10px;
+}
+
+/* Ensure images inside anchors display properly */
+.markdown-container a img {
+  display: inline-block;
+  vertical-align: middle;
+}

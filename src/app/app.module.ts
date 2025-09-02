@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 
 import { ReactiveFormsModule,FormsModule } from '@angular/forms';   
 import { MarkdownModule } from 'ngx-markdown'; 
-
+import { HttpClientModule } from '@angular/common/http';
 
 
 
@@ -18,6 +18,7 @@ import { MarkdownModule } from 'ngx-markdown';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
+    HttpClientModule,
     ReactiveFormsModule, 
     MarkdownModule.forRoot()  ],
   providers: [],
